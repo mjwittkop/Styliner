@@ -1,0 +1,302 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN" "http://www.w3.org/TR/REC-html40/loose.dtd">
+<html  xmlns="http://www.w3.org/1999/xhtml" style="height:100% !important;width:100% !important;-ms-text-size-adjust:100%;-webkit-text-size-adjust:100%;color:#454545;line-height:125%;font-size:15px;text-align:undefined;margin-top:0;margin-bottom:0;margin-right:0;margin-left:0;padding-top:0;padding-bottom:0;padding-right:0;padding-left:0;" >
+<head>
+  <meta name="generator" content="HTML Tidy for Linux (vers 25 March 2009), see www.w3.org">
+  <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+
+  <title>A Lawyer's Guide to Cybersecurity and Electronically Stored Information</title>
+  <style type="text/css">
+
+  .button-td:hover {
+  background: #555555 !important; border-color: #555555 !important;
+  }
+  .button-a:hover {
+  background: #555555 !important; border-color: #555555 !important;
+  }
+  @media screen and (max-width: 600px) {
+  .email-container {
+    width: 100% !important;
+  }
+  .fluid {
+    max-width: 100% !important; height: auto !important; margin-left: auto !important; margin-right: auto !important;
+  }
+  .fluid-centered {
+    max-width: 100% !important; height: auto !important; margin-left: auto !important; margin-right: auto !important;
+  }
+  .fluid-centered {
+    margin-left: auto !important; margin-right: auto !important;
+  }
+  .stack-column {
+    display: block !important; width: 100% !important; max-width: 100% !important; direction: ltr !important;
+  }
+  .stack-column-center {
+    display: block !important; width: 100% !important; max-width: 100% !important; direction: ltr !important;
+  }
+  .stack-column-center {
+    text-align: center !important;
+  }
+  .center-on-narrow {
+    text-align: center !important; display: block !important; margin-left: auto !important; margin-right: auto !important; float: none !important;
+  }
+  table.center-on-narrow {
+    display: inline-block !important;
+  }
+  }
+  
+  </style>
+</head>
+
+<body bgcolor="#E0E0E0" width="100%"  yahoo="yahoo" style="height:100% !important;width:100% !important;-ms-text-size-adjust:100%;-webkit-text-size-adjust:100%;color:#454545;line-height:125%;font-size:15px;text-align:undefined;margin-top:0;margin-bottom:0;margin-right:0;margin-left:0;padding-top:0;padding-bottom:0;padding-right:0;padding-left:0;" >
+  <table bgcolor="#E0E0E0" cellpadding="0" cellspacing="0" border="0" width="100%" style="border-collapse:collapse !important;-ms-text-size-adjust:100%;-webkit-text-size-adjust:100%;color:#454545;line-height:125%;font-size:15px;text-align:undefined;mso-table-lspace:0pt !important;mso-table-rspace:0pt !important;border-spacing:0 !important;table-layout:fixed !important;margin-top:0;margin-bottom:0;margin-right:auto;margin-left:auto;" >
+  <tr  align="undefined" style="-ms-text-size-adjust:100%;-webkit-text-size-adjust:100%;color:#454545;line-height:125%;font-size:15px;text-align:undefined;" >
+      <td  align="undefined" style="-ms-text-size-adjust:100%;-webkit-text-size-adjust:100%;color:#454545;line-height:125%;font-size:15px;text-align:undefined;mso-table-lspace:0pt !important;mso-table-rspace:0pt !important;" >
+        <center style="width:100%;-ms-text-size-adjust:100%;-webkit-text-size-adjust:100%;color:#454545;line-height:125%;font-size:15px;text-align:undefined;" >
+        <div  align="undefined" style="display:none;font-size:1px;line-height:1px;max-height:0px;max-width:0px;opacity:0;overflow:hidden;mso-hide:all;font-family:sans-serif;-ms-text-size-adjust:100%;-webkit-text-size-adjust:100%;color:#454545;text-align:undefined;" ></div>
+
+          <table align="center" width="600" style="width:100% !important;-ms-text-size-adjust:100%;-webkit-text-size-adjust:100%;color:#454545;line-height:125%;font-size:15px;text-align:undefined;mso-table-lspace:0pt !important;mso-table-rspace:0pt !important;border-spacing:0 !important;border-collapse:collapse !important;table-layout:fixed !important;margin-top:0;margin-bottom:0;margin-right:auto;margin-left:auto;" >
+            <tr  align="undefined" style="-ms-text-size-adjust:100%;-webkit-text-size-adjust:100%;color:#454545;line-height:125%;font-size:15px;text-align:undefined;" >
+              <td  align="center" style="text-align:center;-ms-text-size-adjust:100%;-webkit-text-size-adjust:100%;color:#454545;line-height:125%;font-size:15px;mso-table-lspace:0pt !important;mso-table-rspace:0pt !important;padding-top:10px;padding-bottom:10px;padding-right:0;padding-left:0;" ><span style="font-family:Arial, Helvetica, sans-serif;font-size:12px;line-height:22px;-ms-text-size-adjust:100%;-webkit-text-size-adjust:100%;color:#454545;text-align:undefined;" >
+              Having trouble viewing this email? <a href="http://www.cba-cle.org/Seminars/Event-Info/sessionaltcd/LP041718L" style="font-size:12px;-ms-text-size-adjust:100%;-webkit-text-size-adjust:100%;color:#454545;line-height:125%;text-align:undefined;font-family:Arial, Helvetica, sans-serif;" >
+              Click here</a></span></td>
+            </tr>
+          </table>
+
+          <table cellspacing="0" cellpadding="0" border="0" align="center" width="600" style="width:100% !important;-ms-text-size-adjust:100%;-webkit-text-size-adjust:100%;color:#3c3c3c;line-height:125%;font-size:15px;mso-table-lspace:0pt !important;mso-table-rspace:0pt !important;border-spacing:0 !important;border-collapse:collapse !important;table-layout:fixed !important;margin-top:0;margin-bottom:0;margin-right:auto;margin-left:auto;" >
+            <tr  align="undefined" style="-ms-text-size-adjust:100%;-webkit-text-size-adjust:100%;color:#454545;line-height:125%;font-size:15px;text-align:undefined;" >
+              <td align="center" valign="top" style="-ms-text-size-adjust:100%;-webkit-text-size-adjust:100%;color:#454545;line-height:125%;font-size:15px;text-align:undefined;mso-table-lspace:0pt !important;mso-table-rspace:0pt !important;" >
+              <img src="images/18_cybrscrty_esi_01.gif" alt="A Lawyer's Guide to Cybersecurity and Electronically Stored Information" style="width:100%;max-width:600px;height:auto;max-height:322px;-ms-text-size-adjust:100%;-webkit-text-size-adjust:100%;color:#454545;line-height:125%;font-size:15px;text-align:undefined;-ms-interpolation-mode:bicubic;" >
+</td>
+            </tr>
+
+            <tr  align="undefined" style="-ms-text-size-adjust:100%;-webkit-text-size-adjust:100%;color:#454545;line-height:125%;font-size:15px;text-align:undefined;" >
+              <td align="left" valign="top" bgcolor="#FFFFFF" style="-webkit-box-shadow:0px 0px;box-shadow:0px 0px;text-align:left;-ms-text-size-adjust:100%;-webkit-text-size-adjust:100%;color:#454545;line-height:125%;font-size:15px;mso-table-lspace:0pt !important;mso-table-rspace:0pt !important;font-family:Arial, Helvetica, sans-serif;padding-top:30px;padding-bottom:20px;padding-right:40px;padding-left:40px;" >
+<span style="-ms-text-size-adjust:100%;-webkit-text-size-adjust:100%;text-align:undefined;padding-right:0px;padding-bottom:0px;bottom:auto;top:auto;right:auto;left:auto;font-family:Arial, Helvetica, sans-serif;font-size:19px;colr:#3F6D23;font-weight:bold;line-height:112%;border-width:0px;" >
+              <span style="color:#454545;font-size:20px;line-height:135%;font-family:Arial, Helvetica, sans-serif;text-align:center;" >
+              Tuesday, April 17, 2018</span><span style="color:#3c3c3c;font-size:15px;font-weight:normal;line-height:135%;font-family:Arial, Helvetica, sans-serif;text-align:left;" ><br>
+
+              At the <strong>CBA-CLE Classroom</strong>, 1900 Grant St., Suite 300,
+                Denver, CO</span></span><br>                <span style="color:#ab0000;font-size:19px;font-weight:normal;line-height:155%;font-family:Arial, Helvetica, sans-serif;text-align:left;" >
+                <strong><a href="http://www.cba-cle.org/Seminars/Event-Info/sessionaltcd/LP041718L">REGISTER
+              TODAY!</a></strong></span>              </td>
+            </tr>
+
+            <tr  align="undefined" style="-ms-text-size-adjust:100%;-webkit-text-size-adjust:100%;color:#454545;line-height:125%;font-size:15px;text-align:undefined;" >
+              <td align="left" valign="top" bgcolor="#FFFFFF" style="-webkit-box-shadow:0px 0px;box-shadow:0px 0px;text-align:left;-ms-text-size-adjust:100%;-webkit-text-size-adjust:100%;color:#454545;line-height:125%;font-size:15px;mso-table-lspace:0pt !important;mso-table-rspace:0pt !important;font-family:Arial, Helvetica, sans-serif;padding-top:10px;padding-bottom:10px;padding-right:40px;padding-left:40px;" >
+              <hr width="100%" size="1" noshade>
+              </td>
+            </tr>
+
+            <tr  align="undefined" style="-ms-text-size-adjust:100%;-webkit-text-size-adjust:100%;color:#454545;line-height:125%;font-size:15px;text-align:undefined;" >
+              <td align="left" valign="top" bgcolor="#FFFFFF" style="-webkit-box-shadow:0px 0px;box-shadow:0px 0px;text-align:left;-ms-text-size-adjust:100%;-webkit-text-size-adjust:100%;color:#3c3c3c;line-height:125%;font-size:17px;mso-table-lspace:0pt !important;mso-table-rspace:0pt !important;font-family:Arial, Helvetica, sans-serif;padding-top:20px;padding-bottom:20px;padding-right:40px;padding-left:40px;" ><strong>Attorneys have ethical obligations to protect sensitive client
+              information, no matter the size of their firm or organization. The legal
+              industry is facing an unprecedented cybersecurity challenge and attorneys
+              need to know their responsibilities when it comes to cloud computing,
+              email, social media, and database management.</strong></td>
+            </tr>
+
+            <tr  align="undefined" style="-ms-text-size-adjust:100%;-webkit-text-size-adjust:100%;color:#454545;line-height:125%;font-size:15px;text-align:undefined;" >
+              <td align="left" valign="top" bgcolor="#FFFFFF" style="-webkit-box-shadow:0px 0px;box-shadow:0px 0px;text-align:left;-ms-text-size-adjust:100%;-webkit-text-size-adjust:100%;color:#FFFFFF;line-height:125%;font-size:15px;mso-table-lspace:0pt !important;mso-table-rspace:0pt !important;font-family:Arial, Helvetica, sans-serif;padding-top:10px;padding-bottom:10px;padding-right:40px;padding-left:40px;" >
+              <hr width="100%" size="1" noshade>
+              </td>
+            </tr>
+
+            <tr  align="undefined" style="-ms-text-size-adjust:100%;-webkit-text-size-adjust:100%;color:#454545;line-height:125%;font-size:15px;text-align:undefined;" >
+              <td align="left" valign="top" bgcolor="#FFFFFF" style="-webkit-box-shadow:0px 0px;box-shadow:0px 0px;text-align:left;-ms-text-size-adjust:100%;-webkit-text-size-adjust:100%;color:#3c3c3c;line-height:125%;font-size:15px;mso-table-lspace:0pt !important;mso-table-rspace:0pt !important;font-family:Arial, Helvetica, sans-serif;padding-top:20px;padding-bottom:10px;padding-right:40px;padding-left:40px;" >
+              PROGRAM HIGHLIGHTS:
+
+                <ul>
+                  <li><strong>Data Security, Ethical Obligations for Client Data and Practical
+                  Insights</strong></li>
+
+                  <li><strong>Lessons Learned from the Cybersecurity Breaches and the Dark
+                  Web</strong></li>
+
+                  <li><strong>A Guide to Discovery and Admission of Electronically Stored
+                  Information/Evidence ESI: Where Ethical Decision Points and Metadata
+                  Meet</strong></li>
+                </ul>
+
+                <p>Advances in technology are bringing huge changes to the way attorneys
+                practice law. The combination of mobile devices and cloud computing means
+                that attorneys now have the technology to access their work data with any
+                device, at any time, as long as they have an Internet connection.</p>
+
+                <p>These new technologies create threats to the confidentiality of client
+                data and ethics rules impose duties on attorneys to protect client
+                confidences. They also require attorneys to practice competently and to
+                supervise office staff and third parties with access to client data. The
+                operation of these rules requires attorneys and law firms to implement
+                reasonable information security practices to protect the confidentiality
+                of client data. The failure to protect client data may lead to attorney
+                discipline or malpractice liability. Information security is not just a
+                "technology issue" that can be delegated without supervision to
+                information technology support staff. Attorneys themselves have an
+                obligation to manage and oversee the security function in their
+                firms.</p>
+              </td>
+            </tr>
+
+            <tr  align="undefined" style="-ms-text-size-adjust:100%;-webkit-text-size-adjust:100%;color:#454545;line-height:125%;font-size:15px;text-align:undefined;" >
+              <td align="center" valign="top" bgcolor="#FFFFFF" style="-webkit-box-shadow:0px 0px;box-shadow:0px 0px;-ms-text-size-adjust:100%;-webkit-text-size-adjust:100%;color:#3c3c3c;line-height:125%;font-size:15px;mso-table-lspace:0pt !important;mso-table-rspace:0pt !important;font-family:Arial, Helvetica, sans-serif;padding-right:40px;padding-left:40px;padding-bottom:10px;text-align:center;" >
+              <table cellspacing="0" cellpadding="0" border="0" style="-ms-text-size-adjust:100%;-webkit-text-size-adjust:100%;line-height:135%;text-align:center;padding-right:0px;padding-bottom:0px;bottom:auto;top:auto;right:auto;left:auto;mso-table-lspace:0pt !important;mso-table-rspace:0pt !important;border-spacing:0 !important;border-collapse:collapse !important;table-layout:fixed !important;margin-top:auto;margin-bottom:auto;margin-right:auto;margin-left:auto;border-width:0;border-color:#696969;" >
+                <tr  align="undefined" style="-ms-text-size-adjust:100%;-webkit-text-size-adjust:100%;line-height:135%;text-align:undefined;padding-right:0px;padding-bottom:0px;bottom:auto;top:auto;right:auto;left:auto;border-width:0px;" >
+                    <td  align="center" style="text-align:center;-ms-text-size-adjust:100%;-webkit-text-size-adjust:100%;line-height:135%;bottom:auto;top:auto;right:auto;left:auto;mso-table-lspace:0pt !important;mso-table-rspace:0pt !important;padding-top:10px;padding-bottom:10px;padding-right:10px;padding-left:10px;border-width:0px;" >
+                      <table cellspacing="0" cellpadding="0" border="0" align="center" style="-ms-text-size-adjust:100%;-webkit-text-size-adjust:100%;line-height:135%;text-align:center;padding-right:0px;padding-bottom:0px;bottom:auto;top:auto;right:auto;left:auto;mso-table-lspace:0pt !important;mso-table-rspace:0pt !important;border-spacing:0 !important;border-collapse:collapse !important;table-layout:fixed !important;margin-top:auto;margin-bottom:auto;margin-right:auto;margin-left:auto;border-width:0;border-color:#696969;" >
+                      <tr  align="undefined" style="-ms-text-size-adjust:100%;-webkit-text-size-adjust:100%;line-height:135%;text-align:undefined;padding-right:0px;padding-bottom:0px;bottom:auto;top:auto;right:auto;left:auto;border-width:0px;" >
+                          <td align="center" valign="middle" bgcolor="#B6061C" style="border-radius:3px;text-align:center;-ms-text-size-adjust:100%;-webkit-text-size-adjust:100%;line-height:135%;padding-right:0px;padding-bottom:0px;bottom:auto;top:auto;right:auto;left:auto;mso-table-lspace:0pt !important;mso-table-rspace:0pt !important;transition:all 100ms ease-in;background-color:#B6061C;border-width:0px;" >
+                          <a href="http://www.cba-cle.org/Seminars/Event-Info/sessionaltcd/LP041718L" style="color:#ffffff;font-family:Arial, Helvetica, sans-serif;font-size:17px;line-height:115%;text-align:center;text-decoration:none;display:block;border-radius:3px;font-weight:normal;-ms-text-size-adjust:100%;-webkit-text-size-adjust:100%;bottom:auto;top:auto;right:auto;left:auto;transition:all 100ms ease-in;background-color:#B6061C;padding-top:0;padding-bottom:0;padding-right:10px;padding-left:10px;border-width:15px;border-style:solid;border-color:#b6061c;" >LEARN MORE ABOUT THIS PROGRAM</a>
+</td>
+                        </tr>
+                      </table>
+                    </td>
+                  </tr>
+                </table>
+              </td>
+            </tr>
+
+            <tr  align="undefined" style="-ms-text-size-adjust:100%;-webkit-text-size-adjust:100%;color:#454545;line-height:125%;font-size:15px;text-align:undefined;" >
+              <td align="left" valign="top" bgcolor="#FFFFFF" style="-webkit-box-shadow:0px 0px;box-shadow:0px 0px;text-align:left;-ms-text-size-adjust:100%;-webkit-text-size-adjust:100%;color:#3c3c3c;line-height:125%;font-size:15px;mso-table-lspace:0pt !important;mso-table-rspace:0pt !important;font-family:Arial, Helvetica, sans-serif;padding-top:10px;padding-bottom:10px;padding-right:40px;padding-left:40px;" >
+              <hr width="100%" size="1" noshade>
+              </td>
+            </tr>
+
+            <tr  align="undefined" style="-ms-text-size-adjust:100%;-webkit-text-size-adjust:100%;color:#454545;line-height:125%;font-size:15px;text-align:undefined;" >
+              <td align="left" valign="top" bgcolor="#FFFFFF" style="-webkit-box-shadow:0px 0px;box-shadow:0px 0px;text-align:left;-ms-text-size-adjust:100%;-webkit-text-size-adjust:100%;color:#454545;line-height:125%;font-size:15px;mso-table-lspace:0pt !important;mso-table-rspace:0pt !important;font-family:Arial, Helvetica, sans-serif;padding-top:20px;padding-bottom:10px;padding-right:40px;padding-left:40px;" >
+              THOUGHTS ON THIS INSIGHTFUL PROGRAM FROM OTHER ATTORNEYS:
+
+                <p><em>"Perhaps the most useful and interesting CLE I have ever watched.
+                Content and presenters were exceptional."</em></p>
+
+                <p><em>"Oriented to attorneys of all types, whether Luddites or
+                Technology Geeks."</em></p>
+
+                <p><em>"Gave me things to think about - how I provide information,
+                digital safeguarding, etc."</em></p>
+
+                <p><em>"I have long been concerned about these issues and have worked to
+                try to minimize data mining, etc. This was helpful."</em></p>
+              </td>
+            </tr>
+
+            <tr  align="undefined" style="-ms-text-size-adjust:100%;-webkit-text-size-adjust:100%;color:#454545;line-height:125%;font-size:15px;text-align:undefined;" >
+              <td align="left" valign="top" bgcolor="#FFFFFF" style="-webkit-box-shadow:0px 0px;box-shadow:0px 0px;text-align:left;-ms-text-size-adjust:100%;-webkit-text-size-adjust:100%;color:#454545;line-height:125%;font-size:15px;mso-table-lspace:0pt !important;mso-table-rspace:0pt !important;font-family:Arial, Helvetica, sans-serif;padding-top:10px;padding-bottom:10px;padding-right:40px;padding-left:40px;" >
+              <hr width="100%" size="1" noshade>
+              </td>
+            </tr>
+
+            <tr  align="undefined" style="-ms-text-size-adjust:100%;-webkit-text-size-adjust:100%;color:#454545;line-height:125%;font-size:15px;text-align:undefined;" >
+              <td align="left" valign="top" bgcolor="#FFFFFF" style="-webkit-box-shadow:0px 0px;box-shadow:0px 0px;text-align:left;-ms-text-size-adjust:100%;-webkit-text-size-adjust:100%;color:#454545;line-height:125%;font-size:15px;mso-table-lspace:0pt !important;mso-table-rspace:0pt !important;font-family:Arial, Helvetica, sans-serif;padding-top:10px;padding-bottom:10px;padding-right:40px;padding-left:40px;" >
+              FACULTY:
+
+                <ul>
+                  <li><em><strong>Justice Daniel J. Crothers</strong>, North Dakota
+                  Supreme Court, Bismarck, ND</em></li>
+
+                  <li>
+<strong><em>Mark Lanterman</em></strong><em>, Computer Forensic Services,
+                  Minnetonka, MN</em>
+</li>
+                </ul>
+              </td>
+            </tr>
+
+            <tr  align="undefined" style="-ms-text-size-adjust:100%;-webkit-text-size-adjust:100%;color:#454545;line-height:125%;font-size:15px;text-align:undefined;" >
+              <td align="left" valign="top" bgcolor="#FFFFFF" style="-webkit-box-shadow:0px 0px;box-shadow:0px 0px;text-align:left;-ms-text-size-adjust:100%;-webkit-text-size-adjust:100%;color:#454545;line-height:125%;font-size:15px;mso-table-lspace:0pt !important;mso-table-rspace:0pt !important;font-family:Arial, Helvetica, sans-serif;padding-top:10px;padding-bottom:10px;padding-right:40px;padding-left:40px;" >
+              <hr width="100%" size="1" noshade>
+              </td>
+            </tr>
+
+            <tr  align="undefined" style="-ms-text-size-adjust:100%;-webkit-text-size-adjust:100%;color:#454545;line-height:125%;font-size:15px;text-align:undefined;" >
+              <td align="left" valign="top" bgcolor="#FFFFFF" style="-webkit-box-shadow:0px 0px;box-shadow:0px 0px;text-align:left;-ms-text-size-adjust:100%;-webkit-text-size-adjust:100%;color:#454545;line-height:125%;font-size:15px;mso-table-lspace:0pt !important;mso-table-rspace:0pt !important;font-family:Arial, Helvetica, sans-serif;padding-top:10px;padding-bottom:10px;padding-right:40px;padding-left:40px;" >
+              <strong>Submitted for 6 General CLEs</strong>, <strong>Including 3 Ethics
+              CLEs</strong>
+
+                <p>Video Replays: <strong>MAY 9, 2018</strong> - Denver, Colorado
+                Springs, Grand Junction</p>
+              </td>
+            </tr>
+
+            <tr  align="undefined" style="-ms-text-size-adjust:100%;-webkit-text-size-adjust:100%;color:#454545;line-height:125%;font-size:15px;text-align:undefined;" >
+              <td align="left" valign="top" bgcolor="#FFFFFF" style="-webkit-box-shadow:0px 0px;box-shadow:0px 0px;text-align:left;-ms-text-size-adjust:100%;-webkit-text-size-adjust:100%;color:#454545;line-height:125%;font-size:15px;mso-table-lspace:0pt !important;mso-table-rspace:0pt !important;font-family:Arial, Helvetica, sans-serif;padding-top:10px;padding-bottom:10px;padding-right:40px;padding-left:40px;" >
+              <hr width="100%" size="1" noshade>
+              </td>
+            </tr>
+
+            <tr  align="undefined" style="-ms-text-size-adjust:100%;-webkit-text-size-adjust:100%;color:#454545;line-height:125%;font-size:15px;text-align:undefined;" >
+              <td align="left" valign="top" bgcolor="#FFFFFF" style="-webkit-box-shadow:0px 0px;box-shadow:0px 0px;text-align:left;-ms-text-size-adjust:100%;-webkit-text-size-adjust:100%;color:#454545;line-height:125%;font-size:15px;mso-table-lspace:0pt !important;mso-table-rspace:0pt !important;font-family:Arial, Helvetica, sans-serif;padding-top:20px;padding-bottom:10px;padding-right:40px;padding-left:40px;" >
+              <span style="color:#454545;font-size:15px;font-weight:normal;line-height:125%;font-family:Arial, Helvetica, sans-serif;" >
+                TUITION:</span>
+
+                <ul>
+                  <li>Non-member: <strong>$359</strong>
+</li>
+
+                  <li>CBA Member: <strong>$329</strong>
+</li>
+
+                  <li>Paralegal/Legal Support Staff: <strong>$229</strong>
+</li>
+
+                  <li><strong>New Lawyer Edge: Complimentary</strong></li>
+
+                  <li><strong>CLE Elite Pass Holder: Complimentary</strong></li>
+                </ul>
+              </td>
+            </tr>
+
+            <tr  align="undefined" style="-ms-text-size-adjust:100%;-webkit-text-size-adjust:100%;color:#454545;line-height:125%;font-size:15px;text-align:undefined;" >
+              <td align="center" valign="top" bgcolor="#FFFFFF" style="-webkit-box-shadow:0px 0px;box-shadow:0px 0px;text-align:center;-ms-text-size-adjust:100%;-webkit-text-size-adjust:100%;color:#3c3c3c;line-height:125%;font-size:15px;mso-table-lspace:0pt !important;mso-table-rspace:0pt !important;font-family:Gotham, 'Helvetica Neue', Helvetica, Arial, sans-serif;padding-right:40px;padding-left:40px;padding-bottom:30px;" >
+              <table cellspacing="0" cellpadding="0" border="0" style="-ms-text-size-adjust:100%;-webkit-text-size-adjust:100%;line-height:135%;text-align:center;padding-right:0px;padding-bottom:0px;bottom:auto;top:auto;right:auto;left:auto;mso-table-lspace:0pt !important;mso-table-rspace:0pt !important;border-spacing:0 !important;border-collapse:collapse !important;table-layout:fixed !important;margin-top:auto;margin-bottom:auto;margin-right:auto;margin-left:auto;border-width:0;border-color:#696969;" >
+                <tr  align="undefined" style="-ms-text-size-adjust:100%;-webkit-text-size-adjust:100%;line-height:135%;text-align:undefined;padding-right:0px;padding-bottom:0px;bottom:auto;top:auto;right:auto;left:auto;border-width:0px;" >
+                    <td  align="center" style="text-align:center;-ms-text-size-adjust:100%;-webkit-text-size-adjust:100%;line-height:135%;bottom:auto;top:auto;right:auto;left:auto;mso-table-lspace:0pt !important;mso-table-rspace:0pt !important;padding-top:10px;padding-bottom:10px;padding-right:10px;padding-left:10px;border-width:0px;" >
+                      <table cellspacing="0" cellpadding="0" border="0" align="center" style="-ms-text-size-adjust:100%;-webkit-text-size-adjust:100%;line-height:135%;text-align:center;padding-right:0px;padding-bottom:0px;bottom:auto;top:auto;right:auto;left:auto;mso-table-lspace:0pt !important;mso-table-rspace:0pt !important;border-spacing:0 !important;border-collapse:collapse !important;table-layout:fixed !important;margin-top:auto;margin-bottom:auto;margin-right:auto;margin-left:auto;border-width:0;border-color:#696969;" >
+                      <tr  align="undefined" style="-ms-text-size-adjust:100%;-webkit-text-size-adjust:100%;line-height:135%;text-align:undefined;padding-right:0px;padding-bottom:0px;bottom:auto;top:auto;right:auto;left:auto;border-width:0px;" >
+                          <td align="center" valign="middle" bgcolor="#B6061C" style="border-radius:3px;text-align:center;-ms-text-size-adjust:100%;-webkit-text-size-adjust:100%;line-height:135%;padding-right:0px;padding-bottom:0px;bottom:auto;top:auto;right:auto;left:auto;mso-table-lspace:0pt !important;mso-table-rspace:0pt !important;transition:all 100ms ease-in;background-color:#B6061C;border-width:0px;" >
+                          <a href="http://www.cba-cle.org/Seminars/Event-Info/sessionaltcd/LP041718L" style="color:#ffffff;font-family:Arial, Helvetica, sans-serif;font-size:17px;line-height:115%;text-align:center;text-decoration:none;display:block;border-radius:3px;font-weight:normal;-ms-text-size-adjust:100%;-webkit-text-size-adjust:100%;bottom:auto;top:auto;right:auto;left:auto;transition:all 100ms ease-in;background-color:#B6061C;padding-top:0;padding-bottom:0;padding-right:10px;padding-left:10px;border-width:15px;border-style:solid;border-color:#b6061c;" >LEARN MORE ABOUT THIS PROGRAM</a>
+</td>
+                        </tr>
+                      </table>
+                    </td>
+                  </tr>
+                </table>
+              </td>
+            </tr>
+
+            <tr  align="undefined" style="-ms-text-size-adjust:100%;-webkit-text-size-adjust:100%;color:#454545;line-height:125%;font-size:15px;text-align:undefined;" >
+              <td height="220" align="center" valign="top" style="-ms-text-size-adjust:100%;-webkit-text-size-adjust:100%;color:#454545;line-height:125%;font-size:15px;text-align:undefined;mso-table-lspace:0pt !important;mso-table-rspace:0pt !important;padding-top:22px;padding-right:10px;padding-left:10px;" >
+              <span style="width:100%;font-size:12px;font-family:Arial, Helvetica, sans-serif;mso-height-rule:exactly;line-height:18px;color:#888888;-ms-text-size-adjust:100%;-webkit-text-size-adjust:100%;bottom:auto;top:auto;right:auto;left:auto;mso-table-lspace:0pt !important;mso-table-rspace:0pt !important;padding-top:0px;padding-bottom:0px;padding-right:0px;padding-left:0px;border-width:0px;" >
+              Colorado Bar Association CLE has a great website with lots of user-friendly
+              features. Please be aware that there are a few little things that you may
+              run across when you access your account or register for an event. (Having
+              to do with "cookies" on your computer - not chocolate chip, the other
+              kind.) If you are having any issues, please give us a call at 303.860.0608
+              or access our Support Center at <a href="http://cba-cle.org/About/SupportCenter." style="font-size:12px;-ms-text-size-adjust:100%;-webkit-text-size-adjust:100%;line-height:135%;text-align:undefined;padding-right:0px;padding-bottom:0px;bottom:auto;top:auto;right:auto;left:auto;border-width:0px;" >
+              http://cba-cle.org/About/SupportCenter.</a><br style="-ms-text-size-adjust:100%;-webkit-text-size-adjust:100%;line-height:135%;text-align:undefined;padding-right:0px;padding-bottom:0px;bottom:auto;top:auto;right:auto;left:auto;border-width:0px;" >
+
+              <br style="-ms-text-size-adjust:100%;-webkit-text-size-adjust:100%;line-height:135%;text-align:undefined;padding-right:0px;padding-bottom:0px;bottom:auto;top:auto;right:auto;left:auto;border-width:0px;" >
+
+              We look forward to providing you with the best information and service
+              available, to meet all of your continuing legal education needs. If you do
+              not wish to receive e-mail correspondence regarding Colorado Bar
+              Association CLE seminars, please contact us at <a href="mailto:unsubscribe@cba-cle.org" style="font-size:12px;-ms-text-size-adjust:100%;-webkit-text-size-adjust:100%;line-height:135%;text-align:undefined;padding-right:0px;padding-bottom:0px;bottom:auto;top:auto;right:auto;left:auto;border-width:0px;" >
+              unsubscribe@cba-cle.org</a> and simply place "opt out" or "unsubscribe" in
+              the subject line. Our mailing address is 1900 Grant Street, Suite 300,
+              Denver, CO 80203. For customer service questions, please contact us at
+              <a href="mailto:support@cba-cle.org" style="font-size:12px;-ms-text-size-adjust:100%;-webkit-text-size-adjust:100%;line-height:135%;text-align:undefined;padding-right:0px;padding-bottom:0px;bottom:auto;top:auto;right:auto;left:auto;border-width:0px;" >
+              support@cba-cle.org</a></span>
+</td>
+            </tr>
+          </table>
+<br>
+          <br>
+        </center>
+      </td>
+    </tr>
+  </table>
+</body>
+</html>
+
+
